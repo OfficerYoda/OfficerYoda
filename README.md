@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm OfficerYoda</h1>
-<h3 align="center">A casual student (16) from Germany.</h3>
+<h3 align="center">A student (16) from Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officeryoda&label=Profile%20views&color=0e75b6&style=flat" alt="officeryoda" /> </p>
 
@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/0fficeryoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0fficeryoda" height="30" width="40" /></a>
-<a href="https://discord.gg/discordapp.com/users/918946997627650078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/918946997627650078" height="30" width="40" /></a>
+<a href="https://discord.com/users/918946997627650078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/918946997627650078" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
