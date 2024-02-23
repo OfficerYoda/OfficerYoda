@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm OfficerYoda</h1>
-<h3 align="center">A student (16) from Germany.</h3>
+<h3 align="center">A student from Germany.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=officeryoda&label=Profile%20views&color=0e75b6&style=flat" alt="officeryoda" />
