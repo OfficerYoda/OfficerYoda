@@ -40,6 +40,9 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/>
+  </a>
 </p>
 
 <img src="https://raw.githubusercontent.com/OfficerYoda/OfficerYoda/output/snake.svg" alt="Snake animation" />
